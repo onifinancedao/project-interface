@@ -1,0 +1,9 @@
+.walletconnect-qrcode__image {
+    width: calc(100% - 96px)!important;
+}
+.walletconnect-connect__buttons__wrapper__wrap{
+    margin: auto!important;
+}
+.walletconnect-modal__base{
+    color: rgba(18,18,18, 1) !important;
+}

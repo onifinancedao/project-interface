@@ -1,0 +1,49 @@
+.status-span {
+    font-size: 0.825rem;
+    font-weight: 600;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    width: fit-content;
+    justify-self: flex-end;
+    text-transform: uppercase;
+    flex: 0 0 100px;
+    text-align: center;
+}
+.status-span.undetermined{
+    color: #616664;
+    border-color:#616664;
+}
+.status-span.pending{
+    color: #dbb50a;
+    border-color:#dbb50a;
+}
+.status-span.active{
+    color: #198754;
+    border-color:#198754;
+}
+.status-span.canceled{
+    color: #555857;
+    border-color:#555857;
+}
+.status-span.defeated{
+    color: #b90921;
+    border-color:#b90921;
+}
+.status-span.succeeded{
+    color: #0d10ca;
+    border-color:#0d10ca;
+}
+.status-span.queued{
+    color: #0d10ca;
+    border-color:#0d10ca;
+}
+.status-span.expired{
+    color: #b90921;
+    border-color:#b90921;
+}
+.status-span.executed{
+    color: #198754;
+    border-color:#198754;
+}

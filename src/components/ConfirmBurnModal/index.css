@@ -1,0 +1,14 @@
+.token-item.light:hover{
+    background-color: #f2f2f2;
+    border-radius: 12px;
+}
+.token-item.dark:hover{
+    background-color: #272727;
+    border-radius: 12px;
+}
+.trash{
+    cursor:pointer;
+}
+.trash:hover{
+    filter: invert(0.5);
+}

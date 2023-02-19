@@ -1,0 +1,46 @@
+.mobile-nav.dark{
+    background: #121212;
+}
+.mobile-nav.light{
+    background: #ffffff;
+}
+.mobile-nav>.nav-item>.nav-link{
+    font-size: 1rem;
+    font-weight: 400!important;
+}
+.mobile-nav>.nav-item.dark{
+    border-radius: 15px;
+    
+}
+.mobile-nav>.nav-item.dark.active{
+    border-radius: 15px;
+    
+    
+}
+.mobile-nav>.nav-item.dark>.nav-link{
+    color:#909497!important;
+}
+.mobile-nav>.nav-item.dark.active>.nav-link{
+    color:#fff!important;
+}
+.mobile-nav>.nav-item.light{
+    border-radius: 15px;
+    
+}
+.mobile-nav>.nav-item.light.active{
+    border-radius: 15px;
+    
+    
+}
+.mobile-nav>.nav-item.light>.nav-link{
+    color:#646363!important;
+}
+.mobile-nav>.nav-item.light.active>.nav-link{
+    color:black!important;
+}
+.mobile-nav-icon.light{
+    filter: invert(38%) sepia(3%) saturate(7%) hue-rotate(355deg) brightness(94%) contrast(81%);
+}
+.mobile-nav-icon.dark{
+    filter: invert(67%) sepia(0%) saturate(3612%) hue-rotate(245deg) brightness(87%) contrast(92%);
+}

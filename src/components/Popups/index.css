@@ -1,0 +1,13 @@
+.popup-item{
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+}
+.popup-item.dark {
+    background-color: "rgb(18 18 18)";
+    border-color: "rgb(42 42 42)";
+}
+.popup-item.light{
+    background-color: "rgb(255, 255, 255)";
+    border-color: "rgb(210, 217, 238)";
+}

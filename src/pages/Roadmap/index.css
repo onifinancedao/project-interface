@@ -1,0 +1,144 @@
+/*Road Map*/
+/*.wrapper {
+    font-family: 'Helvetica';
+    margin-top: 0.3rem;
+  }*/
+  .roadmap {
+    position: relative;
+    padding-left: 44px;
+    list-style: none;
+  }
+  .roadmap::before {
+    display: inline-block;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 10px;
+    height: 100%;
+    border-left: 2px solid #CCC;
+  }
+  .roadmap strong {
+    display: block;
+  }
+  .roadmap-item {
+    position: relative;
+    counter-increment: list;
+  }
+  .roadmap-item:not(:last-child) {
+    padding-bottom: 20px;
+  }
+  .roadmap-item::before {
+    display: inline-block;
+    content: '';
+    position: absolute;
+    left: -29px;
+    height: 100%;
+    width: 10px;
+  }
+  .roadmap-item::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: -39px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #CCC;
+    border-radius: 50%;
+    background-color: #FFF;
+    
+  }
+  
+  .roadmap-item.is-done::before {
+    border-left: 2px solid #379237;
+  }
+  .roadmap-item.is-done::after {
+    content: url(../../assets/svg/check-circle.svg);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    color: #FFF;
+    text-align: center;
+    border: 2px solid #379237;
+    background-color: #379237;
+  }
+  .roadmap-item.current::before {
+    border-left: 2px solid #0d6efd;
+  }
+  .roadmap-item.current::after {
+    content: url(../../assets/images/in-progress.png);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    text-align: center;
+    color: #f8f9fa;
+    border: 2px solid #0d6efd;
+    background-color: #0d6efd;
+  }
+  .roadmap-item.on-hold::before {
+    border-left: 2px solid #ffc107;
+  }
+  .roadmap-item.on-hold::after {
+    content: url(../../assets/svg/pause-circle.svg);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    text-align: center;
+    color: #f8f9fa;
+    border: 2px solid #ffc107;
+    background-color: #ffc107;
+  }
+  .roadmap-item.canceled::before {
+    border-left: 2px solid #dc3545;
+  }
+  .roadmap-item.canceled::after {
+    content: url(../../assets/images/cancel.png);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    text-align: center;
+    color: #f8f9fa;
+    border: 2px solid #dc3545;
+    background-color: #dc3545;
+  }
+  .roadmap-item.future::before {
+    border-left: 2px solid #adb5bd;
+  }
+  .roadmap-item.future::after {
+    content: url(../../assets/svg/clock.svg);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    text-align: center;
+    color: #f8f9fa;
+    border: 2px solid #adb5bd;
+    background-color: #adb5bd;
+  }
+
+  .future-icon {
+    content: url(../../assets/svg/clock.svg);
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    left: -42px;
+    font-size: 14px;
+    text-align: center;
+    color: #f8f9fa;
+    border: 2px solid #adb5bd;
+    border-radius: 50%;
+    vertical-align: top;
+    background-color: #adb5bd;
+  }
+  
+/*End Road Map*/

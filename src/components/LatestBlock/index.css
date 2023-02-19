@@ -1,0 +1,23 @@
+.latest-block-icon{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
+.network-alert-container{
+    max-width: 320px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 12px;
+    box-shadow: rgb(51 53 72 / 4%) 8px 12px 20px, rgb(51 53 72 / 2%) 4px 6px 12px, rgb(51 53 72 / 4%) 4px 4px 8px;
+}
+.network-alert-container.dark{
+    background-color: rgb(18, 18, 18);
+    border-color: rgb(42, 42, 42);
+}
+.network-alert-container.light{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(210, 217, 238);
+}
+.warning-icon{
+    width: 24px;
+}

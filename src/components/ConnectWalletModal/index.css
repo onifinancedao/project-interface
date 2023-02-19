@@ -1,0 +1,16 @@
+.connect-wallet-container{
+    display: flex;
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+}
+.connect-wallet-container.dark{
+    background-color: rgb(30, 33, 54);
+    border-color: rgb(19, 26, 42);
+    box-shadow: rgb(0 3 9) 0px 3px 8px 0px;
+}
+.connect-wallet-container.light{
+    background-color: rgb(245, 246, 247);
+    border-color: rgb(245, 246, 252);
+    box-shadow: rgb(85 90 100) 0px 3px 8px 0px;
+}

@@ -1,0 +1,13 @@
+.countdown-container{
+    font-size: initial;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 12px;
+}
+.countdown-container.dark{
+    border-color: rgb(42, 42, 42)!important;
+}
+.countdown-container.light{
+    border-color: rgb(210, 217, 238)!important;
+}

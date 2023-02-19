@@ -1,0 +1,46 @@
+.wallet-info-button{
+    border-radius: 25px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    cursor: pointer;
+}
+
+.wallet-info-button.dark{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(26 26 26);
+    background-color: rgb(26 26 26);
+
+}
+.wallet-info-button.dark:hover{
+    border-color: rgb(62 61 61);
+}
+
+.wallet-info-button.light{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(245 245 245);
+    background-color: rgb(245 245 245);
+}
+.wallet-info-button.light:hover{
+    border-color: rgb(213 210 210);
+}
+.expand-icon{
+    width: 24px;
+    height: 24px;
+}
+.expand-icon.dark{
+    filter: invert(0.6);
+}
+.expand-icon.light{
+    width: 24px;
+    height: 24px;
+    filter:opacity(0.6)
+}
+.unsupported-network-button{
+    border-radius: 25px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    cursor: pointer;
+    background-color: rgb(224, 69, 69);
+}

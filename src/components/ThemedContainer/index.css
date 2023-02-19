@@ -1,0 +1,18 @@
+.themed-container{
+    position: relative;
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    padding: 16px 16px;
+    box-shadow: rgb(51 53 72 / 4%) 8px 12px 20px, rgb(51 53 72 / 2%) 4px 6px 12px, rgb(51 53 72 / 4%) 4px 4px 8px;
+    border-radius: 12px;
+    z-index: 1;
+}
+.themed-container.dark {
+    background-color: rgb(18, 18, 18)!important;
+    border-color: rgb(42, 42, 42)!important;
+}
+.themed-container.light{
+    background-color: rgb(255, 255, 255)!important;
+    border-color: rgb(210, 217, 238)!important;
+}

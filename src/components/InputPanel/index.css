@@ -1,0 +1,150 @@
+.input-panel{
+    display: flex;
+    flex-flow: column nowrap;
+    position: relative;
+    border-radius: 20px;
+    z-index: 1;
+    width: initial;
+    transition: height 1s ease 0s;
+    will-change: height;
+}
+
+.input-panel-container{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 12px;
+    width: initial;
+}
+.input-panel-container.dark{
+    border-color: rgb(37 38 40);
+    background-color: rgb(22 22 22);
+}
+.input-panel-container.light{
+    border-color: rgb(231 228 228);
+    background-color: rgb(247 247 247);
+}
+
+.input-panel-container.dark:focus, .input-panel-container.dark:hover, .input-panel-container-border.dark {
+    border: 1px solid rgb(68 70 74);
+}
+.input-panel-container.light:focus, .input-panel-container.light:hover, .input-panel-container-border.light{
+    border: 1px solid rgb(206, 208, 217);
+}
+
+
+
+.input-panel-row {
+    display: flex;
+    flex-flow: row nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.input-currency.dark{
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 22, 22);
+}
+.input-currency.light{
+    color: rgb(0, 0, 0);
+    background-color: rgb(247 247 247);
+}
+.input-currency {
+    width: 0px;
+    position: relative;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    flex: 1 1 auto;
+    font-size: 28px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0px;
+    appearance: textfield;
+
+    filter: none;
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out 0s;
+    text-align: left;
+}
+.currency-input-button{
+    -webkit-box-align: center;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: rgb(0 0 0 / 8%) 0px 6px 10px;
+    display: flex;
+    cursor: pointer;
+    border-radius: 16px;
+    outline: none;
+    user-select: none;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    height: 2.4rem;
+    width: initial;
+    padding: 0px 8px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-left: 12px;
+    visibility: visible;
+}
+.currency-input-button.dark{
+    background-color: rgb(32 32 32);
+    color: rgb(255, 255, 255);
+}
+.currency-input-button.dark:hover{
+    background-color: rgb(44 43 43);
+    color: rgb(255, 255, 255);
+    
+}
+.currency-input-button.light{
+    background-color: rgb(237, 238, 242);
+    color: rgb(0, 0, 0);
+}
+.currency-input-button.light:hover{
+    background-color: rgb(228 229 231);
+    color: rgb(0, 0, 0);
+}
+.currency-input-aligner{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+.currency-input {
+    width: fit-content;
+    display: flex;
+    padding: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
+.currency-input-logo{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 0px solid rgba(255, 255, 255, 0);
+    margin-right: 0.5rem;
+}
+.currency-input-symbol{
+    margin: 0px 0.25rem;
+    font-size: 18px;
+}
+.currency-input-balance{
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.currency-input-balance.dark{
+    color: rgb(136 139 147)!important;
+}
+.currency-input-balance.light{
+    color: rgb(110, 114, 125)!important;
+}

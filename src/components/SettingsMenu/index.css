@@ -1,0 +1,31 @@
+.settings-menu-bottom-border{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+.settings-menu-bottom-border.dark{
+    border-bottom-color: rgba(255, 255, 255, 0.1)!important;
+}
+.settings-menu-bottom-border.light{
+    border-bottom-color: rgba(0, 0, 0, 0.1)!important;
+}
+
+.settings-menu-item:hover{
+    border-radius: 5px;
+    cursor: pointer;
+}
+.settings-menu-item.dark:hover{
+    background-color: #272727!important;
+}
+.settings-menu-item.light:hover{
+    background-color: #f2f2f2!important;
+}
+.settings-menu-icon{
+    height: 24px;
+    width: 24px;
+}
+.settings-menu-icon.dark{
+    filter: invert(0.6);
+}
+.settings-menu-icon.light{
+    filter: opacity(0.4);
+}

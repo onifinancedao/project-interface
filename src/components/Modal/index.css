@@ -1,0 +1,36 @@
+[data-reach-dialog-overlay] /*{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1091;
+    background-color: transparent;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    overflow-y: 'scroll';
+    justify-content: center;
+  }*/
+{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 1091;
+    overflow: hidden;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+  [data-reach-dialog-content] {
+    z-index: 1092;
+    margin-top: 10vh;
+    margin-bottom: auto;
+    
+    padding: 0px;
+    overflow: hidden auto;
+    display: flex;
+  }

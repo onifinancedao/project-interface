@@ -1,0 +1,78 @@
+.proposal-input-container{
+    border: 1px solid rgb(206, 208, 217);
+    background-color: rgb(247, 248, 250);
+    border-radius: 15px;
+}
+.proposal-input-container.dark{
+    border: 1px solid rgb(42, 42, 42);
+    background-color: rgb(18 18 18);
+}
+.action-list{
+    max-height: 200px;
+}
+.action-list-item{
+    background-color: #f7f8fa;
+    height: 60px;
+    border-bottom: 1px solid rgb(206, 208, 217);
+    border-left: 1px solid rgb(206, 208, 217);
+    border-right: 1px solid rgb(206, 208, 217);
+    border-top-width: 0px;
+}
+.action-list-item.start{
+    border-top: 1px solid rgb(206, 208, 217);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.action-list-item.end{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.action-list-item.dark{
+    color:#fff;
+    background-color: rgb(18 18 18);
+    border-bottom: 1px solid rgb(42, 42, 42);
+    border-left: 1px solid rgb(42, 42, 42);
+    border-right: 1px solid rgb(42, 42, 42);
+}
+.action-list-item.start.dark{
+    border-top: 1px solid rgb(42, 42, 42);
+}
+.action-list-item:hover{
+    background-color:#ebeef4
+}
+.action-list-item.dark:hover{
+    background-color:#1a1a1a
+}
+.proposal-input{
+    background-color: #f7f8fa;
+    width: 100%;
+    border-width: 0px;
+    outline-width: 0px;
+}
+.proposal-input.dark{
+    background-color: rgb(18 18 18);
+    color: #fff;
+}
+.proposal-btn{
+    border-radius: 15px!important;
+}
+
+.form-select.dark{
+    background-color: rgb(18 18 18);
+    cursor: pointer;
+    border: 1px solid rgb(42, 42, 42);
+    color: #fff;
+}
+.form-control.dark{
+    background-color: rgb(18 18 18)!important;
+    cursor: pointer;
+    border: 1px solid rgb(42, 42, 42);
+    color: #fff!important;
+}
+.votes-container{
+    border: 1px solid rgb(206, 208, 217);
+    border-radius: 10px;
+}
+.votes-container.dark{
+    border: 1px solid rgb(42, 42, 42);
+}

@@ -1,0 +1,37 @@
+.winner-card.hit{
+    outline: rgb(32, 129, 226) solid 3px!important;
+    border-color: rgb(32, 129, 226)!important;
+}
+.winner-card.dark{
+    background-color: #121212!important;
+    border-color: #2a2a2a!important;
+}
+.winner-card.dark>.card-header{
+    border-bottom-color: #2a2a2a!important;
+}
+.winner-card.dark>.card-footer{
+    border-top-color: #2a2a2a!important;
+}
+.raffles-tab>.nav-item>.nav-link{
+    padding-right: 0.9rem !important;
+    padding-left: 0.9rem !important;
+    cursor: pointer;
+}
+.raffles-tab.dark>.nav-item>.nav-link.active{
+    background-color: #121212!important;
+    border-color: #2a2a2a!important;
+    color: #fff !important;
+}
+
+.raffles-tab.light>.nav-item>.nav-link{
+    color: #495057;
+}
+.raffles-tab.dark>.nav-item>.nav-link{
+    color: #fff;
+}
+.raffles-tab.dark>.nav-item>.nav-link:hover{
+    border-color: #2a2a2a!important;
+}
+.raffles-tab.dark{
+    border-bottom-color: #2a2a2a!important;
+}

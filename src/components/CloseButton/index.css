@@ -1,0 +1,13 @@
+.close{
+    background-color: transparent;
+    border: none;
+}
+.close.dark>img{
+    filter:invert(1.0);
+}
+.close.light:hover>img{
+    filter: opacity(0.5);
+}
+.close.dark:hover>img{
+    filter: invert(0.5);
+}

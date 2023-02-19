@@ -1,0 +1,6 @@
+.blockies-img{
+    border-radius: 50%;
+}
+.blockies-img:hover{
+    border-radius: 15%;
+}

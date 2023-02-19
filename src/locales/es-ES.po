@@ -1,0 +1,1900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onifinance-project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-02-15 20:47\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"Language-Team: Spanish\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: onifinance-project\n"
+"X-Crowdin-Project-ID: 567803\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: en-US.po\n"
+"X-Crowdin-File-ID: 13\n"
+
+#: src/pages/Team/index.tsx
+msgid "\"Don't trust, check the <0>source code</0>\""
+msgstr "\"No confíes, revisa el <0>código fuente</0>\""
+
+#: src/pages/Faq/index.tsx
+msgid "1 OFI/USDC"
+msgstr "1 OFI/USDC"
+
+#: src/pages/Roadmap/index.tsx
+msgid "1 OFP token will be selected and the token owner will be able to claim 100000 USDC tokens."
+msgstr "Se seleccionará 1 token OFP y el propietario del token podrá reclamar 100000 tokens USDC."
+
+#: src/pages/Faq/index.tsx
+msgid "1 USDC token for every OFP token minted."
+msgstr "1 token USDC por cada token OFP acuñado."
+
+#: src/pages/Roadmap/index.tsx
+msgid "100 million OFI tokens will be made available to the community through the Onifanance DAO governance system (10% of the initial supply)."
+msgstr "Se pondrán a disposición de la comunidad 100 millones de tokens OFI a través del sistema de gobernanza de Onifanance DAO (10% del suministro inicial)."
+
+#: src/pages/Faq/index.tsx
+msgid "100 million for the treasury of Onifinance DAO."
+msgstr "100 millones para el tesoro de Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+msgid "100 million to be exchanged for OFP tokens."
+msgstr "100 millones para ser intercambiados por tokens OFP."
+
+#: src/pages/Faq/index.tsx
+msgid "19000 USDC tokens in total will be distributed over a period of 6 months after the community raffle is completed."
+msgstr "19000 tokens USDC en total serán distribuidos en un período de 6 meses después de que se complete el sorteo comunitario."
+
+#: src/pages/Faq/index.tsx
+msgid "2 WETH/USDC"
+msgstr "2 WETH/USDC"
+
+#: src/pages/Roadmap/index.tsx
+msgid "200 OFP tokens will be selected and holders of the selected tokens will be able to claim 100 USDC tokens each."
+msgstr "Se seleccionarán 200 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 100 tokens USDC cada uno."
+
+#: src/pages/Roadmap/index.tsx
+msgid "200 OFP tokens will be selected and holders of the selected tokens will be able to claim 200 USDC tokens each."
+msgstr "Se seleccionarán 200 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 200 tokens USDC cada uno."
+
+#: src/pages/Roadmap/index.tsx
+msgid "200 OFP tokens will be selected and holders of the selected tokens will be able to claim 2000 USDC tokens each."
+msgstr "Se seleccionarán 200 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 2000 tokens USDC cada uno."
+
+#: src/pages/Roadmap/index.tsx
+msgid "200 OFP tokens will be selected and holders of the selected tokens will be able to claim 50 USDC tokens each."
+msgstr "Se seleccionarán 200 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 50 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "3 USDT/USDC"
+msgstr "3 USDT/USDC"
+
+#: src/pages/Roadmap/index.tsx
+msgid "30 OFP tokens will be selected and holders of the selected tokens will be able to claim 10000 USDC tokens each."
+msgstr "Se seleccionarán 30 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 10000 tokens USDC cada uno."
+
+#: src/pages/Roadmap/index.tsx
+msgid "4 OFP tokens will be selected and holders of the selected tokens will be able to claim 50000 USDC tokens each."
+msgstr "Se seleccionarán 4 tokens OFP y los titulares de los tokens seleccionados podrán reclamar 50000 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "4 WMATIC/USDC"
+msgstr "4 WMATIC/USDC"
+
+#: src/pages/Faq/index.tsx
+msgid "40000 USDC tokens, which can be claimed 60 days after the launch of Onifinance DAO."
+msgstr "40000 tokens USDC, los cuales podrán ser reclamados 60 días después del lanzamiento de Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+msgid "5 WBTC/USDC"
+msgstr "5 WBTC/USDC"
+
+#: src/pages/Roadmap/index.tsx
+msgid "50 million OFI tokens (5% of the initial supply) will be distributed among the staff who contribute significantly to the creation of Onifinance DAO. The tokens will be delivered over the course of 5 years, with the OFP developer excluded from this reward."
+msgstr "50 millones de tokens OFI (5% del suministro inicial) se distribuirán entre el personal que contribuya significativamente a la creación del Onifinance DAO. Los tokens se entregarán en el transcurso de 5 años, y el desarrollador de OFP quedará excluido de esta recompensa."
+
+#: src/pages/Faq/index.tsx
+msgid "50 million OFI tokens that will be delivered over the course of 5 years and its delivery will start 60 days after the launch of the Onifinance DAO."
+msgstr "50 millones de tokens OFI que se entregarán a lo largo de 5 años y cuya entrega comenzará 60 días después del lanzamiento de Onifinance DAO."
+
+#: src/pages/Roadmap/index.tsx
+msgid "50 million OFI tokens will be distributed through the Airdrop (5% of the initial supply)."
+msgstr "50 millones de tokens OFI serán distribuidos a través del Airdrop (5% del suministro inicial)."
+
+#: src/pages/Faq/index.tsx
+msgid "50 million for the Airdrop."
+msgstr "50 millones para el Airdrop."
+
+#: src/pages/Faq/index.tsx
+msgid "50 million for the developer of the Onifinance Project (hacku)."
+msgstr "50 millones para el desarrollador del Proyecto Onifinance (hacku)."
+
+#: src/pages/Faq/index.tsx
+msgid "50 million for the staff who contribute significantly to the creation and implementation of the Onifinance DAO, excluding the developer of the Onifinance Project (hacku)."
+msgstr "50 millones para el personal que contribuya significativamente en la creación e implementación del Onifinance DAO, excluyendo al desarrollador del Proyecto Onifinance (hacku)."
+
+#: src/pages/Faq/index.tsx
+msgid "6 DAI/USDC"
+msgstr "6 DAI/USDC"
+
+#: src/pages/Faq/index.tsx
+msgid "650 million to be distributed through the Liquidity Mining system (65% of the initial supply)."
+msgstr "650 millones se distribuirán a través del sistema de Minería de Liquidez (65% del suministro inicial)."
+
+#: src/pages/Faq/index.tsx
+msgid "800000 USDC tokens, 850 million OFI tokens (85% of the initial supply), and the ability to create new OFI tokens."
+msgstr "800000 tokens USDC, 850 millones de tokens OFI (85% del suministro inicial) y la capacidad para crear nuevos tokens OFI."
+
+#: src/pages/Roadmap/index.tsx
+msgid "850 million OFI tokens will be transferred to the governance system (85% of the initial supply), 800000 USDC tokens, and the ability to mint new OFI tokens. Additionally, the developer will receive a total of 19000 USDC tokens over the course of 6 months."
+msgstr "Se transferirán 850 millones de tokens OFI al sistema de gobernanza (el 85% del suministro inicial), 800000 tokens USDC y la capacidad de acuñar nuevos tokens OFI. Además, el desarrollador recibirá un total de 19000 tokens USDC durante un período de 6 meses."
+
+#: src/pages/Governance/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Desbloquear votación</0> para prepararse para la siguiente propuesta."
+
+#: src/pages/Faq/index.tsx
+msgid "A DAO is a decentralized organization based on blockchain technology that allows its participants to make collective decisions through a voting system. Instead of having a traditional hierarchical structure with centralized authority, a DAO relies on the participation of its members to make decisions about how the organization's resources should be used. DAOs often use tokens to represent ownership and vote on organizational decisions. In the case of Onifinance DAO, OFI tokens will give the right to vote in the organization's governance system."
+msgstr "Un DAO es una organización descentralizada basada en tecnología blockchain que permite a sus participantes tomar decisiones colectivas a través de un sistema de votación. En lugar de tener una estructura jerárquica tradicional con autoridad centralizada, un DAO depende de la participación de sus miembros para tomar decisiones sobre cómo deben utilizarse los recursos de la organización. Los DAO a menudo utilizan tokens para representar la propiedad y votar en las decisiones organizativas. En el caso de Onifinance DAO, los tokens OFI darán el derecho a voto en el sistema de gobierno de la organización."
+
+#: src/pages/Faq/index.tsx
+msgid "A minimum of 10 votes is required to start a proposal."
+msgstr "Se requiere un mínimo de 10 votos para iniciar una propuesta."
+
+#: src/pages/Faq/index.tsx
+msgid "A minimum of 800 votes is required and there must be more votes for than against."
+msgstr "Se requiere un mínimo de 800 votos y debe haber más votos a favor que en contra."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "A minimum threshold of 10 votes is required to submit proposals"
+msgstr "Se requiere un umbral mínimo de 10 votos para presentar propuestas"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "ACTIVE"
+msgstr "ACTIVO"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Action"
+msgstr "Acción"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Action list"
+msgstr "Lista de acciones"
+
+#: src/components/Governance/ActivateEmergencyModal.tsx
+msgid "Activate Emergency"
+msgstr "Activar Emergencia"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Activate emergency"
+msgstr "Activar Emergencia"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Add"
+msgstr "Agregar"
+
+#: src/components/Governance/ActivateEmergencyModal.tsx
+#: src/components/Governance/CommunityRaffleModal.tsx
+#: src/components/Governance/CustomActionModal.tsx
+#: src/components/Governance/DeclineDevRewardModal.tsx
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Add action"
+msgstr "Agregar acción"
+
+#: src/pages/Dev/index.tsx
+#: src/pages/Dev/index.tsx
+msgid "Add balance"
+msgstr "Agregar saldo"
+
+#: src/pages/Dev/index.tsx
+msgid "Add claimable balance"
+msgstr "Agregar saldo reclamable"
+
+#: src/components/ConfirmBurnModal/index.tsx
+msgid "Add items to burn."
+msgstr "Agregar artículos para quemar."
+
+#: src/components/ConfirmExchangeModal/index.tsx
+msgid "Add items to exchange."
+msgstr "Agregar artículos para intercambiar."
+
+#: src/components/Governance/VoteModal.tsx
+msgid "Add reason"
+msgstr "Agregar motivo"
+
+#: src/pages/Burn/index.tsx
+msgid "Add to burn"
+msgstr "Agregar para quemar"
+
+#: src/pages/Exchange/index.tsx
+msgid "Add to exchange"
+msgstr "Agregar para intercambiar"
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+msgid "Add winner"
+msgstr "Agregar ganador"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0}"
+msgstr "Agregar {0}"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "Add {0} {1}"
+msgstr "Agregar {0} {1}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0}"
+msgstr "Agregado {0}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Adding"
+msgstr "Agregando"
+
+#: src/pages/Faq/index.tsx
+msgid "Additionally, OFP tokens can also be used to participate in decentralized raffles where USDC tokens will be distributed. In case of emergency, OFP tokens can also be used to obtain a portion of the OFP contract balance through a distribution mechanism activated by the governance system."
+msgstr "Además, los tokens OFP también se pueden utilizar para participar en sorteos descentralizados en los que se distribuirán tokens USDC. En caso de emergencia, los tokens OFP también se pueden utilizar para obtener una parte del saldo del contrato OFP a través de un mecanismo de distribución activado por el sistema de gobernanza."
+
+#: src/pages/Faq/index.tsx
+msgid "Additionally, the community will be able to mint, through the Onifinance DAO governance system, no more than 4% of the total supply once a year."
+msgstr "Además, la comunidad podrá crear, a través del sistema de gobierno de Onifinance DAO, no más del 4% del suministro total una vez al año."
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Aded"
+msgstr "Agregado"
+
+#: src/pages/Roadmap/index.tsx
+msgid "After the launch of Onifinance DAO, the developer requests the bounty and must wait 60 days to claim 40,000 USDC tokens. The OFP contract will then start giving the developer a total of 50 million OFI tokens (5% of the initial supply) over the course of 5 years. The community can reject the request using the governance system."
+msgstr "Después del lanzamiento de Onifinance DAO, el desarrollador solicita la recompensa y debe esperar 60 días para reclamar 40,000 tokens USDC. Luego, el contrato OFP comenzará a dar al desarrollador un total de 50 millones de tokens OFI (5% del suministro inicial) en el transcurso de 5 años. La comunidad puede rechazar la solicitud utilizando el sistema de gobierno."
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Against"
+msgstr "En contra"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Airdrop"
+msgstr "Airdrop"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "All Proposals"
+msgstr "Todas las propuestas"
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "An Automated Market Maker (AMM) that will feature liquidity mining for the first three months in some selected token pairs."
+msgstr "Un Creador de Mercado Automatizado (AMM) que contará con minería de liquidez durante los primeros tres meses en algunos pares de tokens seleccionados."
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Approve"
+msgstr "Aprobar"
+
+#: src/pages/Mint/index.tsx
+msgid "Approve the use of your {0} tokens"
+msgstr "Aprobar el uso de tus tokens {0}."
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Approve token"
+msgstr "Aprobar token"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "Approve {0}"
+msgstr "Aprobar {0}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Approved"
+msgstr "Aprobado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Approving"
+msgstr "Aprobando"
+
+#: src/pages/Dev/index.tsx
+msgid "Be honest, everything will turn out well."
+msgstr "Be honest, everything will turn out well."
+
+#: src/components/MobileNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Burn/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Burn"
+msgstr "Quemar"
+
+#: src/components/ConfirmBurnModal/index.tsx
+msgid "Burn {0} {1}"
+msgstr "Quemar {0} {1}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Burned"
+msgstr "Quemado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Burning"
+msgstr "Quemando"
+
+#: src/components/ConfirmBurnModal/index.tsx
+msgid "Burning {0} {1} tokens in exchange for {2} {3} tokens"
+msgstr "Quemando {0} {1} tokens a cambio de {2} {3} tokens"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "CANCELED"
+msgstr "CANCELADO"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Call Data"
+msgstr "Datos de llamada"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Call data"
+msgstr "Datos de llamada"
+
+#: src/components/Governance/CancelModal.tsx
+msgid "Cancel Proposal"
+msgstr "Cancelar Propuesta"
+
+#: src/pages/Burn/index.tsx
+#: src/pages/Exchange/index.tsx
+msgid "Cancel all"
+msgstr "Cancelar todo"
+
+#: src/components/Governance/CancelModal.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Cancel proposal"
+msgstr "Cancelar Propuesta"
+
+#: src/components/Governance/CancelModal.tsx
+msgid "Cancel proposal {proposalId}"
+msgstr "Cancelar Propuesta {proposalId}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Canceling proposal"
+msgstr "Cancelando propuesta"
+
+#: src/components/Governance/CancelModal.tsx
+msgid "Canceling proposal {proposalId}"
+msgstr "Cancelando propuesta {proposalId}"
+
+#: src/components/Governance/VoteModal.tsx
+#: src/components/Governance/VoteModal.tsx
+msgid "Cast Vote"
+msgstr "Emitir Voto"
+
+#: src/pages/Dev/index.tsx
+msgid "Claim OFI tokens"
+msgstr "Reclamar tokens OFI"
+
+#: src/pages/Dev/index.tsx
+#: src/pages/Dev/index.tsx
+msgid "Claim reward"
+msgstr "Reclamar recompensa"
+
+#: src/components/WalletInfoDropdown/TransactionsMenu.tsx
+msgid "Clear All"
+msgstr "Limpiar todo"
+
+#: src/components/ConfirmBurnModal/index.tsx
+#: src/components/ConfirmExchangeModal/index.tsx
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Clear all"
+msgstr "Limpiar todo"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Cerrar"
+
+#: src/pages/Mint/index.tsx
+msgid "Coming soon"
+msgstr "próximamente"
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+#: src/pages/Dev/index.tsx
+msgid "Community Raffle"
+msgstr "Sorteo Comunitario"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Community raffle"
+msgstr "Sorteo Comunitario"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Community treasure"
+msgstr "Tesoro Comunitario"
+
+#: src/components/ConfirmMintModal/index.tsx
+#: src/components/ConfirmMintModal/index.tsx
+msgid "Confirm minting"
+msgstr "Confirmar acuñación"
+
+#: src/components/ConnectWalletModal/index.tsx
+msgid "Confirm this connection in your wallet."
+msgstr "Confirme esta conexión en su billetera."
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Confirme esta transacción en su billetera."
+
+#: src/components/WalletInfoDropdown/TransactionsMenu.tsx
+msgid "Confirmed"
+msgstr "Confirmado"
+
+#: src/components/ConnectWalletButton/index.tsx
+msgid "Connect Wallet"
+msgstr "Conectar Billetera"
+
+#: src/components/ConnectWalletModal/index.tsx
+msgid "Connect a wallet"
+msgstr "Conectar una Billetera"
+
+#: src/components/UnsupportedNetworkDropdown/index.tsx
+msgid "Connect to polygon network"
+msgstr "Conectar a la red polygon"
+
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "Connected with {walletName}"
+msgstr "Conectado con {walletName}"
+
+#: src/components/UnsupportedNetworkDropdown/index.tsx
+msgid "Connecting"
+msgstr "Conectando"
+
+#: src/components/DisclaimerModal/index.tsx
+msgid "Continue"
+msgstr "Continuar"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Create Proposal"
+msgstr "Crear propuesta"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Create proposal"
+msgstr "Crear propuesta"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Custom Action"
+msgstr "Acción Personalizada"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Custom action"
+msgstr "Acción personalizada"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Customized"
+msgstr "Personalizado"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "DEFEATED"
+msgstr "DERROTADO"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+msgid "Dark theme"
+msgstr "Tema oscuro"
+
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Decentralized raffle"
+msgstr "Sorteo descentralizado"
+
+#: src/components/Governance/DeclineDevRewardModal.tsx
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Decline dev reward"
+msgstr "Rechazar recompensa de desarrollador"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Delegar Votos"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegate to a third party"
+msgstr "Delegar a un tercero"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegate {0} Votes"
+msgstr "Delegar {0} Votos"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegatee"
+msgstr "Delegado"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegating Votes"
+msgstr "Delegando Votos"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Delegating {0} votes to {activeDelegate}"
+msgstr "Delegando {0} votos a {activeDelegate}"
+
+#: src/components/Governance/PreviewProposalModal.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Description"
+msgstr "Descripción"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Detail"
+msgstr "Detalle"
+
+#: src/components/Governance/PreviewProposalModal.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Details"
+msgstr "Detalles"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/pages/Dev/index.tsx
+msgid "Dev"
+msgstr "Desarrollador"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/pages/Team/index.tsx
+msgid "Dev Team"
+msgstr "Equipo de desarrollo"
+
+#: src/pages/Dev/index.tsx
+msgid "Dev shackles: {0}"
+msgstr "Grilletes de desarrollador: {0}"
+
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Developer reward"
+msgstr "Recompensa de desarrollador"
+
+#: src/components/DisclaimerModal/index.tsx
+msgid "Disclaimer"
+msgstr "Descargo de responsabilidad"
+
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Desestimar"
+
+#: src/pages/Dev/index.tsx
+msgid "Distribute"
+msgstr "Distribuir"
+
+#: src/pages/Dev/index.tsx
+msgid "Distribute prizes for raffle #{0}"
+msgstr "Distribuir premios para sorteo #{0}"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "EXECUTED"
+msgstr "EJECUTADO"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "EXPIRED"
+msgstr "EXPIRADO"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Each OFP token can be exchanged for 5000 OFI tokens after 60 days of the Onifinance DAO launch. 100 million OFI tokens (10% of the initial supply) will be distributed in total."
+msgstr "Cada token OFP se puede intercambiar por 5000 tokens OFI después de 60 días del lanzamiento de Onifinance DAO. Se distribuirán un total de 100 millones de tokens OFI (10% del suministro inicial)."
+
+#: src/pages/Faq/index.tsx
+msgid "Each OFP token can be exchanged for 5000 OFI tokens."
+msgstr "Cada token OFP se puede intercambiar por 5000 tokens OFI."
+
+#: src/pages/Dev/index.tsx
+msgid "Emergency Active"
+msgstr "Emergencia Activa"
+
+#: src/pages/Exchange/index.tsx
+msgid "Emergency active."
+msgstr "Emergencia Activa."
+
+#: src/pages/Roadmap/index.tsx
+msgid "End of minting"
+msgstr "Fin de la acuñación"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Error"
+msgstr "Error"
+
+#: src/components/ConnectWalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Error conectando"
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+#: src/pages/Raffle/index.tsx
+msgid "Evidence"
+msgstr "Evidencia"
+
+#: src/components/MobileNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Exchange/index.tsx
+#: src/pages/Home/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Exchange"
+msgstr "Intercambiar"
+
+#: src/components/ConfirmExchangeModal/index.tsx
+msgid "Exchange {0} {1}"
+msgstr "Intercambiar {0} {1}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Exchanged"
+msgstr "Intercambiado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Exchanging"
+msgstr "Intercambiando"
+
+#: src/components/ConfirmExchangeModal/index.tsx
+msgid "Exchanging {0} {1} tokens for {2} {3} tokens."
+msgstr "Intercambiando {0} tokens {1} por {2} tokens {3}."
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Execute"
+msgstr "Ejecutar"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Execute Proposal"
+msgstr "Ejecutar propuesta"
+
+#: src/components/Governance/ExecuteModal.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Execute proposal"
+msgstr "Ejecutar propuesta"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Execute proposal {proposalId}"
+msgstr "Ejecutar propuesta {proposalId}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Executing proposal"
+msgstr "Ejecutando propuesta"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Executing proposal {proposalId}"
+msgstr "Ejecutando propuesta {proposalId}"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Expansion to other networks at the request of the community."
+msgstr "Ampliación a otras redes a petición de la comunidad."
+
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "Explore"
+msgstr "Explorar"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/pages/Faq/index.tsx
+#: src/pages/Governance/Proposals.tsx
+#: src/pages/Home/index.tsx
+msgid "FAQs"
+msgstr "Preguntas frecuentes"
+
+#: src/components/Popups/FailedNetworkSwitchPopup.tsx
+msgid "Failed to switch networks from the Onifinance Interface. In order to use Onifinance on {0}, you must change the network in your wallet."
+msgstr "No se pudo cambiar de red desde la interfaz de Onifinance. Para usar Onifinance en {0}, debes cambiar la red en tu billetera."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Fifty community members will be randomly selected on Twitter and will be able to claim 1000 USDC tokens each. To participate, users must follow the <0>official Onifinance account</0> on Twitter and retweet a specified tweet for the raffle. The delivery of the tokens must be authorized by the community using the governance system."
+msgstr "Cincuenta miembros de la comunidad serán seleccionados al azar en Twitter y podrán reclamar 1000 tokens USDC cada uno. Para participar, los usuarios deben seguir la <0>cuenta oficial de Onifinance</0> en Twitter y retuitear un tweet especificado para el sorteo. La entrega de los tokens debe ser autorizada por la comunidad mediante el sistema de gobernanza."
+
+#: src/pages/Dev/index.tsx
+msgid "Final dev reward, claim {0} minutes"
+msgstr "Recompensa final de desarrollo, reclamar en {0} minutos"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "For"
+msgstr "A favor"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Function"
+msgstr "Función"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Function with input data types"
+msgstr "Función con tipos de datos de entrada"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Gas Limit"
+msgstr "Límite de gas"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Giveaway on twitter"
+msgstr "Sorteo en twitter"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+#: src/components/VerticalNav/index.tsx
+msgid "Governance"
+msgstr "Gobernanza"
+
+#: src/pages/Team/index.tsx
+msgid "Hacku is a software developer passionate about decentralized finance who made the decision to create and launch Onifinance."
+msgstr "Hacku es un desarrollador de software apasionado por las finanzas descentralizadas que tomó la decisión de crear y lanzar Onifinance."
+
+#: src/pages/Faq/index.tsx
+msgid "How and when can OFP tokens be exchanged for OFI tokens?"
+msgstr "¿Cómo y cuándo se pueden intercambiar los tokens OFP por tokens OFI?"
+
+#: src/pages/Faq/index.tsx
+msgid "How and when will the raffles be held?"
+msgstr "¿Cómo y cuándo se llevarán a cabo los sorteos?"
+
+#: src/pages/Faq/index.tsx
+msgid "How many OFI tokens will be obtained for each OFP token?"
+msgstr "¿Cuántos tokens OFI se obtendrán por cada token OFP?"
+
+#: src/pages/Faq/index.tsx
+msgid "How many OFI tokens will exist and how will they be distributed?"
+msgstr "¿Cuántos tokens OFI existirán y cómo se distribuirán?"
+
+#: src/pages/Faq/index.tsx
+msgid "How many OFP tokens can be minted?"
+msgstr "¿Cuántos tokens OFP se pueden acuñar?"
+
+#: src/pages/Faq/index.tsx
+msgid "How many votes are required for a proposal to be successful?"
+msgstr "¿Cuántos votos son necesarios para que una propuesta sea exitosa?"
+
+#: src/pages/Faq/index.tsx
+msgid "How many votes are required to start a proposal?"
+msgstr "¿Cuántos votos se necesitan para iniciar una propuesta?"
+
+#: src/pages/Faq/index.tsx
+msgid "How much does the developer of the Onifinance Project earn?"
+msgstr "¿Cuánto gana el desarrollador del Proyecto Onifinance?"
+
+#: src/pages/Faq/index.tsx
+msgid "How much will it cost to mint OFP tokens?"
+msgstr "¿Cuánto costará acuñar tokens OFP?"
+
+#: src/pages/Faq/index.tsx
+msgid "How to get votes in the Onifinance Project governance system?"
+msgstr "¿Cómo obtener votos en el sistema de gobierno del Proyecto Onifinance?"
+
+#: src/components/DisclaimerModal/index.tsx
+msgid "I agree that I am acting at my own risk and I will NOT hold the developer legally responsible for any financial loss due to errors in the <0>source code</0>."
+msgstr "Acepto que actúo bajo mi propio riesgo y NO responsabilizaré legalmente al desarrollador por cualquier pérdida financiera debido a errores en el <0>código fuente</0>."
+
+#: src/components/SettingsMenu/IdentIconMenu.tsx
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+msgid "Identicon"
+msgstr "Identificador"
+
+#: src/pages/Team/index.tsx
+msgid "If you think you have what it takes for Onifinance to succeed, do not hesitate to send us an email at <0>contact@onifinance.org</0>. We are always looking for talented professionals who want to join our team and contribute to the growth and success of the project. We look forward to reading your email and learning more about you!"
+msgstr "Si crees que tienes lo necesario para que Onifinance tenga éxito, no dudes en enviarnos un correo electrónico a <0>contact@onifinance.org</0>. Siempre estamos buscando profesionales talentosos que quieran unirse a nuestro equipo y contribuir al crecimiento y éxito del proyecto. ¡Esperamos con interés leer tu correo electrónico y saber más sobre ti!"
+
+#: src/pages/Faq/index.tsx
+msgid "Important"
+msgstr "Importante"
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "In addition, shortly after its launch, the Onifinance DAO will introduce the Onifinance Name System, which will be a naming system that will allow users to purchase .ofi domains in exchange for OFD tokens."
+msgstr "Además, poco después de su lanzamiento, la Onifinance DAO introducirá el Sistema de Nombres de Onifinance, que será un sistema de nombres que permitirá a los usuarios adquirir dominios .ofi a cambio de tokens OFD."
+
+#: src/pages/Faq/index.tsx
+msgid "In summary, OFP tokens allow their holders to participate in the building of the Onifinance DAO through the Onifinance Project governance system, and once the construction of the Onifinance DAO is complete, to obtain OFI tokens. They can also be used to obtain USDC tokens through raffles and to receive a portion of the OFP contract balance in case of emergency."
+msgstr "En resumen, los tokens OFP permiten a sus poseedores participar en la construcción de la Onifinance DAO a través del sistema de gobernanza del proyecto Onifinance, y una vez que la construcción de la Onifinance DAO esté completa, obtener tokens OFI. También se pueden utilizar para obtener tokens USDC a través de sorteos y para recibir una parte del saldo del contrato OFP en caso de emergencia."
+
+#: src/pages/Faq/index.tsx
+msgid "In the Onifinance Project, 7 random seeds generated by <0>Chainlink VRF</0> will be used as a basis for selecting the winning OFP token IDs in each decentralized draw. This ensures that the winner selection process is fair and transparent."
+msgstr "En el proyecto Onifinance, se utilizarán 7 semillas aleatorias generadas por <0>Chainlink VRF</0> como base para seleccionar los ID de tokens OFP ganadores en cada sorteo descentralizado. Esto asegura que el proceso de selección de ganadores sea justo y transparente."
+
+#: src/pages/Faq/index.tsx
+msgid "In the Onifinance Project, seven decentralized raffles will be held once {0} OFP tokens have been minted. These raffles will be conducted using random numbers generated with <0>Chainlink VRF</0> as a seed to select the IDs of the winning OFP tokens. Each raffle will have a certain number of winners and prizes in USDC tokens."
+msgstr "En el proyecto Onifinance, se llevarán a cabo siete sorteos descentralizados una vez que se hayan acuñado {0} tokens OFP. Estos sorteos se realizarán utilizando números aleatorios generados con <0>Chainlink VRF</0> como semilla para seleccionar los IDs de los tokens OFP ganadores. Cada sorteo tendrá un número determinado de ganadores y premios en tokens USDC."
+
+#: src/pages/Faq/index.tsx
+msgid "In total, 50 million OFI tokens will be distributed among the staff who significantly contribute to the creation and implementation of the Onifinance DAO."
+msgstr "En total se distribuirán 50 millones de tokens OFI entre el personal que contribuya significativamente a la creación e implementación del Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+msgid "In total, 650 million OFI tokens (65% of the initial supply) will be distributed in the liquidity mining program."
+msgstr "En total, se distribuirán 650 millones de tokens OFI (el 65% del suministro inicial) en el programa de minería de liquidez."
+
+#: src/components/ConnectWalletModal/InjectedOption.tsx
+msgid "Install MetaMask"
+msgstr "Instalar MetaMask"
+
+#: src/pages/Raffle/index.tsx
+msgid "Invalid account"
+msgstr "Cuenta no válida"
+
+#: src/pages/Faq/index.tsx
+msgid "It will be allowed to mint a total of {0} OFP tokens and each user will be able to mint a maximum of 20 OFP tokens per transaction."
+msgstr "Se permitirá acuñar un total de {0} tokens OFP y cada usuario podrá acuñar un máximo de 20 tokens OFP por transacción."
+
+#: src/pages/Exchange/index.tsx
+msgid "It's not time yet."
+msgstr "Aún no es tiempo."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Items marked with this icon: <0/>, are subject to change by the community, using the governance system."
+msgstr "Los elementos marcados con este ícono: <0/>, están sujetos a cambios por parte de la comunidad, utilizando el sistema de gobernanza."
+
+#: src/components/SettingsMenu/LanguageMenu.tsx
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+msgid "Language"
+msgstr "Idioma"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Launch of Onifinance DAO"
+msgstr "Lanzamiento de Onifinance DAO"
+
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+msgid "Light theme"
+msgstr "Tema claro"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Liquidity Mining"
+msgstr "Minería de liquidez"
+
+#: src/pages/Faq/index.tsx
+msgid "Liquidity mining is a technique that will allow users to earn a reward in OFI tokens for providing liquidity during the first 90 days on some Automated Market Maker (AMM) pairs."
+msgstr "La minería de liquidez es una técnica que permitirá a los usuarios ganar una recompensa en tokens OFI por proporcionar liquidez durante los primeros 90 días en algunos pares de Creador de Mercado Automatizado (AMM)."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Liquidity mining will begin shortly after the launch of the Onifinance DAO, 650 million OFI tokens (65% of the initial supply) will be distributed through this method."
+msgstr "La minería de liquidez comenzará poco después del lanzamiento de la Onifinance DAO, se distribuirán 650 millones de tokens OFI (el 65% del suministro inicial) mediante este método."
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Markdown editor"
+msgstr "Editor de Markdown"
+
+#: src/components/MobileNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Home/index.tsx
+#: src/pages/Mint/index.tsx
+#: src/pages/Mint/index.tsx
+msgid "Mint"
+msgstr "Acuñar"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "Mint {0} {1}"
+msgstr "Acuñar {0} {1}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Minted"
+msgstr "Acuñado"
+
+#: src/pages/Mint/index.tsx
+msgid "Minted tokens: {0} {1} / {2} {3}."
+msgstr "Tokens acuñados: {0} {1} / {2} {3}."
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Minting"
+msgstr "Acuñando"
+
+#: src/pages/Faq/index.tsx
+msgid "Minting 1 OFP token will cost 100 USDC tokens plus the transaction fee."
+msgstr "Acuñar 1 token OFP costará 100 tokens USDC más la tarifa de transacción."
+
+#: src/pages/Faq/index.tsx
+msgid "Minting begins on {0} and ends once token number {1} is minted."
+msgstr "La acuñación comienza el {0} y termina una vez que se haya acuñado el token número {1}."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Minting begins on {0}."
+msgstr "La acuñación comienza el {0}."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Minting ends when token number 20000 is minted."
+msgstr "El proceso de acuñación finaliza cuando se haya acuñado el token número 20000."
+
+#: src/components/ConfirmMintModal/index.tsx
+msgid "Minting {0} {1} for {2} {3}"
+msgstr "Acuñando {0} {1} por {2} {3}"
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+msgid "Name"
+msgstr "Nombre"
+
+#: src/components/LatestBlock/index.tsx
+msgid "Network warning"
+msgstr "Advertencia de red"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "No proposals found."
+msgstr "No se encontraron propuestas."
+
+#: src/pages/Burn/index.tsx
+#: src/pages/Exchange/index.tsx
+msgid "No tokens to display"
+msgstr "No hay tokens para mostrar"
+
+#: src/pages/Raffle/index.tsx
+msgid "Non-existent raffle"
+msgstr "Sorteo inexistente"
+
+#: src/pages/Dev/index.tsx
+#: src/pages/Dev/index.tsx
+#: src/pages/Dev/index.tsx
+msgid "Nothing to claim"
+msgstr "Nada que reclamar"
+
+#: src/pages/Faq/index.tsx
+msgid "OFP tokens can be exchanged for OFI tokens 60 days after the Onifinance DAO has been launched, the exchange of OFP tokens for OFI tokens can be done in the <0>\"Exchange\"</0> option that will appear in the navigation bar of the Onifinance Project interface."
+msgstr "Los tokens OFP pueden ser intercambiados por tokens OFI 60 días después del lanzamiento de la Onifinance DAO, el intercambio de tokens OFP por tokens OFI se puede realizar en la opción <0>\"Intercambiar\"</0> que aparecerá en la barra de navegación de la interfaz del Proyecto Onifinance."
+
+#: src/pages/Faq/index.tsx
+msgid "Once the smart contracts of the Onifinance DAO are completed, they must be audited by a professional company specializing in smart contract auditing. If the results of the audit are positive, the launch will proceed. Otherwise, recommended corrections will be made and the launch will proceed."
+msgstr "Una vez que se completen los contratos inteligentes de la Onifinance DAO, deben ser auditados por una empresa profesional especializada en la auditoría de contratos inteligentes. Si los resultados de la auditoría son positivos, se procederá con el lanzamiento. De lo contrario, se realizarán las correcciones recomendadas y se procederá con el lanzamiento."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Once the source code of the smart contracts has been audited, the operation of the Onifinance DAO officially begins with an Automated Market Maker (AMM) and its own governance system."
+msgstr "Una vez que el código fuente de los contratos inteligentes ha sido auditado, la operación de Onifinance DAO comienza oficialmente con un creador de mercado automatizado (AMM) y su propio sistema de gobernanza."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Onifanance Dollar OFD will be a multi-collateralized and over-collateralized stablecoin that will allow the exchange of any token for OFD tokens using the liquidity pools of the Automated Market Maker (AMM), will use <0>Chainlink Data Feeds</0> to track the USD price and will be controlled by the Onifanance DAO governance system."
+msgstr "Onifinance Dollar OFD será una stablecoin multi-colateralizada y sobre-colateralizada que permitirá el intercambio de cualquier token por tokens OFD utilizando las piscinas de liquidez del Creador de Mercado Automatizado (AMM), utilizará <0>Chainlink Data Feeds</0> para rastrear el precio en USD y será controlada por el sistema de gobernanza de Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Onifinance DAO"
+msgstr "Onifinance DAO"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Onifinance DAO construction begins"
+msgstr "Comienza la construcción de la Onifinance DAO"
+
+#: src/pages/Faq/index.tsx
+msgid "Onifinance DAO will start with Onifinance Dollar and in the future new stablecoins may be created at the request of the community through the governance system such as: Onifinance Gold (OFG), Onifinance Euro (OFE), Onifinance Silver (OFS), etc."
+msgstr "La Onifinance DAO comenzará con Onifinance Dollar y en el futuro se podrán crear nuevas stablecoins a petición de la comunidad a través del sistema de gobernanza, tales como: Onifinance Gold (OFG), Onifinance Euro (OFE), Onifinance Silver (OFS), entre otras."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Onifinance Dollar"
+msgstr "Onifinance Dollar"
+
+#: src/pages/Faq/index.tsx
+msgid "Onifinance Dollar (OFD) will allow any token that has liquidity in the Automated Market Maker to be exchanged (AMM) for OFD tokens and will be controlled by the governance system of the Onifinance DAO."
+msgstr "Onifinance Dollar permitirá que cualquier token que tenga liquidez en el Creador de Mercado Automatizado (AMM) sea intercambiado por tokens OFD y será controlado por el sistema de gobernanza de la Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+msgid "Onifinance Dollar (OFD) will be a stablecoin pegged to the US dollar, backed by several different assets and over-collateralized to ensure its stability. <0>Chainlink Data Feeds</0> will be used to maintain the price of the OFD token pegged to the US dollar."
+msgstr "Onifinance Dollar (OFD) será una stablecoin anclada al dólar estadounidense, respaldada por varios activos diferentes y sobrecolateralizada para garantizar su estabilidad. Se utilizarán los <0>Chainlink Data Feeds</0> para mantener el precio del token OFD anclado al dólar estadounidense."
+
+#: src/pages/Roadmap/index.tsx
+msgid "Onifinance Name System"
+msgstr "Sistema de nombres de Onifinance"
+
+#: src/pages/Faq/index.tsx
+msgid "Onifinance Name System will be a service that will allow users to register decentralized .ofi domain names in exchange for any token that has liquidity in the Automated Market Maker, and the initial price for each domain will be 1 OFD token per year. During the first 6 months, the free registration of 1 .ofi domain per address will be allowed, excluding contract addresses."
+msgstr "Onifinance Name System será un servicio que permitirá a los usuarios registrar nombres de dominio descentralizados .ofi a cambio de cualquier token que tenga liquidez en el Creador de Mercado Automatizado, y el precio inicial para cada dominio será de 1 token OFD por año. Durante los primeros 6 meses, se permitirá el registro gratuito de 1 dominio .ofi por dirección, excluyendo las direcciones de contrato."
+
+#: src/components/NavBar/index.tsx
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Onifinance Project"
+msgstr "Proyecto Onifinance"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Onifinance Project Governance"
+msgstr "Gobernanza del Proyecto Onifinance"
+
+#: src/components/UnsupportedNetworkDropdown/index.tsx
+msgid "Onifinance is currently only available on the <0>Polygon Network</0>."
+msgstr "Onifinance actualmente solo está disponible en la  <0>Red Polygon</0>."
+
+#: src/pages/Team/index.tsx
+msgid "Onifinance needs you!"
+msgstr "¡Onifinance te necesita!"
+
+#: src/components/DisclaimerModal/index.tsx
+msgid "Onifinance uses smart contracts for its operation and decision making, there is unaudited code and it may contain errors, DO NOT invest more than you are willing to lose."
+msgstr "Onifinance utiliza contratos inteligentes para su funcionamiento y toma de decisiones, hay código no auditado y puede contener errores, NO invierta más de lo que está dispuesto a perder."
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Only OFP votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Solamente los votos OFP que fueron autodelegados o delegados a otra dirección antes del bloque {0} son elegibles para votar."
+
+#: src/pages/Burn/index.tsx
+msgid "Only available in an emergency"
+msgstr "Solo disponible en caso de emergencia"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Other Networks"
+msgstr "Otras Redes"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Other Stablecoins"
+msgstr "Otras Stablecoins"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Other stablecoins will be created at the request of the community."
+msgstr "Se crearán otras stablecoins a petición de la comunidad."
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "PENDING"
+msgstr "PENDIENTE"
+
+#: src/components/WalletInfoDropdown/TransactionsMenu.tsx
+msgid "Pending"
+msgstr "Pendiente"
+
+#: src/pages/Governance/CreateProposal.tsx
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Preview Proposal"
+msgstr "Previsualizar propuesta"
+
+#: src/pages/Mint/index.tsx
+msgid "Price: 1 {0} = {1} {2}"
+msgstr "Precio: 1 {0} = {1} {2}"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Project funds and dev reward."
+msgstr "Fondos del proyecto y recompensa del desarrollador."
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Proposal"
+msgstr "Propuesta"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Proposal canceled"
+msgstr "Propuesta cancelada"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Proposal executed"
+msgstr "Propuesta ejecutada"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Proposal not found."
+msgstr "Propuesta no encontrada."
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Proposal queued"
+msgstr "Propuesta puesta en cola"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Proposal submitted"
+msgstr "Propuesta enviada"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Proposals"
+msgstr "Propuestas"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "Las propuestas enviadas por miembros de la comunidad aparecerán aquí."
+
+#: src/components/Governance/PreviewProposalModal.tsx
+#: src/components/Governance/PreviewProposalModal.tsx
+msgid "Propose"
+msgstr "Proponer"
+
+#: src/components/Governance/PreviewProposalModal.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Proposer"
+msgstr "Proponente"
+
+#: src/components/Governance/PreviewProposalModal.tsx
+msgid "Proposing"
+msgstr "Proponiendo"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "QUEUED"
+msgstr "EN COLA"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Queue"
+msgstr "Poner en cola"
+
+#: src/components/Governance/QueueModal.tsx
+msgid "Queue Proposal"
+msgstr "Poner propuesta en cola"
+
+#: src/components/Governance/QueueModal.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Queue proposal"
+msgstr "Poner propuesta en cola"
+
+#: src/components/Governance/QueueModal.tsx
+msgid "Queue proposal {proposalId}"
+msgstr "Poner propuesta {proposalId} en cola"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Queuing proposal"
+msgstr "Poniendo propuesta en cola"
+
+#: src/components/Governance/QueueModal.tsx
+msgid "Queuing proposal {proposalId}"
+msgstr "Poniendo propuesta {proposalId} en cola"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Quorum"
+msgstr "Cuórum"
+
+#: src/components/MobileNav/index.tsx
+#: src/components/SettingsMenu/SettingsDefaultMenu.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/pages/Home/index.tsx
+#: src/pages/Raffle/index.tsx
+msgid "Raffle"
+msgstr "Sorteo"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Random seeds"
+msgstr "Semillas aleatorias"
+
+#: src/pages/Faq/index.tsx
+msgid "Random seeds are randomly generated sequences of numbers or characters that are used to create random results or to ensure randomness in certain processes. These seeds can be obtained in different ways, such as through specialized physical devices that generate random numbers or through software that uses algorithms to generate random numbers."
+msgstr "Las semillas aleatorias son secuencias generadas al azar de números o caracteres que se utilizan para crear resultados aleatorios o para asegurar la aleatoriedad en ciertos procesos. Estas semillas se pueden obtener de diferentes maneras, como a través de dispositivos físicos especializados que generan números aleatorios o mediante software que utiliza algoritmos para generar números aleatorios."
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Raw Value"
+msgstr "Valor sin procesar"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Raw amount"
+msgstr "Monto sin procesar"
+
+#: src/components/Governance/CustomActionModal.tsx
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Raw call data"
+msgstr "Datos de llamada sin procesar"
+
+#: src/components/Governance/VoteModal.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "Reason"
+msgstr "Motivo"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Receipt"
+msgstr "Recibo"
+
+#: src/components/Governance/DeclineDevRewardModal.tsx
+msgid "Reject the developer's final reward request."
+msgstr "Rechazar la solicitud de recompensa final del desarrollador."
+
+#: src/pages/Burn/index.tsx
+msgid "Remove from burn"
+msgstr "Quitar de quemar"
+
+#: src/pages/Exchange/index.tsx
+msgid "Remove from exchange"
+msgstr "Quitar de intercambiar"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Dev/index.tsx
+msgid "Request"
+msgstr "Solicitar"
+
+#: src/pages/Dev/index.tsx
+msgid "Request Random Words"
+msgstr "Solicitar palabras aleatorias"
+
+#: src/pages/Dev/index.tsx
+msgid "Request final reward"
+msgstr "Solicitar recompenza final"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "Request random words"
+msgstr "Solicitar palabras aleatorias"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Requested"
+msgstr "Solicitado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Requesting"
+msgstr "Solicitando"
+
+#: src/pages/Dev/index.tsx
+msgid "Reward for minted tokens"
+msgstr "Recompenza por tokens acuñados"
+
+#: src/components/MobileNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/pages/Roadmap/index.tsx
+msgid "Roadmap"
+msgstr "Hoja de ruta"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "SUCCEEDED"
+msgstr "EXITOSO"
+
+#: src/pages/Dev/index.tsx
+msgid "Second reward, claim {0} minutes"
+msgstr "Segunda recompensa, reclamar {0} minutos"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Select action"
+msgstr "Seleccionar acción"
+
+#: src/pages/Burn/index.tsx
+#: src/pages/Exchange/index.tsx
+msgid "Select all"
+msgstr "Seleccionar todos"
+
+#: src/pages/Dev/index.tsx
+msgid "Select winners"
+msgstr "Seleccionar ganadores"
+
+#: src/pages/Dev/index.tsx
+msgid "Select winners for raffle #{0}"
+msgstr "Seleccionar ganadores para el sorteo #{0}"
+
+#: src/components/Governance/DelegateModal.tsx
+#: src/components/Governance/DelegateModal.tsx
+#: src/pages/Governance/Proposals.tsx
+msgid "Self-delegate"
+msgstr "Autodelegarse"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Self-delegated!"
+msgstr "Autodelegado!"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Self-delegating"
+msgstr "Autodelegandose"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Self-delegating {0} Votes"
+msgstr "Autodelegandose {0} Votos"
+
+#: src/pages/Dev/index.tsx
+msgid "Send project funds"
+msgstr "Enviar fondos del proyecto"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Set gas limit: {0}"
+msgstr "Establecer límite de gas: {0}"
+
+#: src/components/VerticalNav/index.tsx
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Seven random seeds are generated using <0>Chainlink VRF</0>, one for each decentralized raffle."
+msgstr "Siete semillas aleatorias se generan utilizando <0>Chainlink VRF</0>, una para cada sorteo descentralizado."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Show Cancelled"
+msgstr "Mostrar cancelados"
+
+#: src/pages/Dev/index.tsx
+msgid "Start final reward"
+msgstr "Comenzar recompensa final"
+
+#: src/pages/Roadmap/index.tsx
+msgid "Start of minting"
+msgstr "Comienzo de la acuñación"
+
+#: src/components/MintCountdown/index.tsx
+msgid "Start of minting:"
+msgstr "Comienzo de la acuñación:"
+
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Submit proposal"
+msgstr "Enviar propuesta"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Submitting proposal"
+msgstr "Enviando propuesta"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Target"
+msgstr "Target"
+
+#: src/pages/Faq/index.tsx
+msgid "The Airdrop will consist of the free distribution of 50 million OFI tokens (5% of the initial supply) to all users who meet the requirements or conditions that the community decides in the governance system."
+msgstr "El Airdrop consistirá en la distribución gratuita de 50 millones de tokens OFI (5% del suministro inicial) a todos los usuarios que cumplan con los requisitos o condiciones que la comunidad decida en el sistema de gobierno."
+
+#: src/pages/Faq/index.tsx
+msgid "The OFI token (Onifinance) is an ERC20 token created to participate in the Onifinance DAO governance system, each OFI token will represent 1 vote in the Onifinance DAO governance system."
+msgstr "El token OFI (Onifinance) es un token ERC20 creado para participar en el sistema de gobierno de la Onifinance DAO, cada token OFI representará 1 voto en el sistema de gobierno de la Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+msgid "The OFI token will have an initial price of 0.7 USDC for each OFI. The price will be subject to supply and demand."
+msgstr "El token OFI tendrá un precio inicial de 0.7 USDC por cada OFI. El precio estará sujeto a la oferta y la demanda."
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "The OFI token, which will be used as the utility token of the Onifinance DAO."
+msgstr "El token OFI, que será utilizado como el token de utilidad de la Onifinance DAO."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "The OFI tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Los tokens OFI representan participaciones de voto en la gobernanza del proyecto Onifinance. Puedes votar en cada propuesta por ti mismo o delegar tus votos a un tercero."
+
+#: src/pages/Faq/index.tsx
+msgid "The OFP (Onifinance Project) tokens are a non-fungible or NFT token type created as part of the Onifinance Project. Their main utility is to serve as a means to participate in the Onifinance Project governance system and obtain OFI tokens. OFP token holders can exchange them for OFI tokens once the Onifinance DAO has been launched."
+msgstr "Los tokens OFP (Onifinance Project) son un tipo de token no fungible o NFT creado como parte del proyecto Onifinance. Su principal utilidad es servir como medio para participar en el sistema de gobernanza del Proyecto Onifinance y obtener tokens OFI. Los titulares de tokens OFP pueden intercambiarlos por tokens OFI una vez que se haya lanzado la Onifinance DAO."
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "The Onifinance DAO will be a decentralized autonomous organization (DAO) governed by a decentralized governance system. It will consist of three main elements:"
+msgstr "La Onifinance DAO será una organización autónoma descentralizada (DAO) gobernada por un sistema de gobierno descentralizado. Estará compuesta por tres elementos principales:"
+
+#: src/pages/Faq/index.tsx
+msgid "The Onifinance DAO will initially run on the Polygon network and may expand to other networks such as Ethereum, Binance Smart Chain, Arbitrum, etc. in the future, as required by the community."
+msgstr "La Onifinance DAO se ejecutará inicialmente en la red de Polygon y podrá expandirse a otras redes como Ethereum, Binance Smart Chain, Arbitrum, etc. en el futuro, según lo requiera la comunidad."
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "The Onifinance Dollar (OFD) will be a stablecoin pegged to the US dollar."
+msgstr "El Onifinance Dollar (OFD), que será una stablecoin anclada al dólar estadounidense."
+
+#: src/pages/Roadmap/index.tsx
+msgid "The Onifinance Name System will allow the registration of decentralized domain names .ofi, charging 1 OFD token for each domain per year. During the first 6 months, the registration of 1 .ofi domain name per address will be allowed for free, excluding contract addresses."
+msgstr "El Sistema de Nombres de Onifinance permitirá el registro de nombres de dominio descentralizados .ofi, cobrando 1 token OFD por cada dominio por año. Durante los primeros 6 meses se permitirá el registro gratuito de 1 nombre de dominio .ofi por dirección, excluyendo las direcciones de contrato."
+
+#: src/pages/Faq/index.tsx
+msgid "The Onifinance Project developer may claim the following rewards over time:"
+msgstr "El desarrollador del proyecto Onifinance podrá reclamar las siguientes recompensas con el tiempo"
+
+#: src/pages/Faq/index.tsx
+#: src/pages/Home/index.tsx
+msgid "The Onifinance Project is an initiative aimed at creating and launching the Onifinance DAO. To achieve this, the project allows users to mint OFP tokens in exchange for USDC tokens, each of which entitles them to one vote in the project's governance system. A total of 20000 OFP tokens will be allowed to be minted, and once minted, seven decentralized raffles will take place, each with different USDC token prizes. There will also be a community raffle on Twitter with 50 prizes of 1000 USDC tokens each. Users will be able to claim OFI tokens in exchange for their OFP tokens 60 days after the launch of the Onifinance DAO, and in case of emergency, the project has a mechanism to distribute the OFP contract balance among holders in exchange for their OFP tokens."
+msgstr "El Proyecto Onifinance es una iniciativa que tiene como objetivo crear y lanzar la Onifinance DAO. Para lograr esto, el proyecto permite a los usuarios acuñar tokens OFP a cambio de tokens USDC, cada uno de los cuales da derecho a un voto en el sistema de gobernanza del proyecto. Se permitirá la acuñación de un total de 20000 tokens OFP, y una vez acuñados, se llevarán a cabo siete sorteos descentralizados, cada uno con diferentes premios en tokens USDC. También habrá un sorteo comunitario en Twitter con 50 premios de 1000 tokens USDC cada uno. Los usuarios podrán reclamar tokens OFI a cambio de sus tokens OFP 60 días después del lanzamiento del la Onifinance DAO, y en caso de emergencia, el proyecto tiene un mecanismo para distribuir el saldo del contrato OFP entre los titulares a cambio de sus tokens OFP."
+
+#: src/pages/Faq/index.tsx
+msgid "The Onifinance Project will have available for funding the creation, auditing, launch, and initial liquidity of the Onifinance DAO:"
+msgstr "El Proyecto Onifinance tendrá disponible para financiar la creación, auditoría, puesta en marcha y liquidez inicial del la Onifinance DAO:"
+
+#: src/components/ConnectWalletModal/index.tsx
+msgid "The connection attempt failed."
+msgstr "El intento de conexión falló."
+
+#: src/pages/Faq/index.tsx
+msgid "The construction and implementation of the Onifinance DAO will be the responsibility of the community and will be open to changes proposed by the community in the governance system of the Onifinance Project. If the community decides it is necessary, all or some aspects of the Onifinance DAO can be modified to adapt to the needs and preferences of the community."
+msgstr "La construcción e implementación de la Onifinance DAO estará a cargo de la comunidad y estará abierta a cambios propuestos por la comunidad en el sistema de gobernanza del Proyecto Onifinance. Si la comunidad decide que es necesario, todos o parte de los aspectos de la Onifinance DAO pueden ser modificados para adaptarlos a las necesidades y preferencias de la comunidad."
+
+#: src/pages/Faq/index.tsx
+msgid "The construction of the Onifinance DAO will begin immediately after the execution and delivery of the community raffle prizes."
+msgstr "La construcción de la Onifinance DAO comenzará inmediatamente después de la ejecución y entrega de los premios del sorteo comunitario."
+
+#: src/pages/Faq/index.tsx
+msgid "The developer of the Onifinance Project prefers to remain anonymous and would be willing to reveal their true identity if necessary. Although the true identity of the developer may not be as important, what really matters is the transparency and reliability of the project. The project's source code is the true proof of its quality and reliability."
+msgstr "El desarrollador del Proyecto Onifinance prefiere permanecer anónimo y estaría dispuesto a revelar su verdadera identidad si fuera necesario. Aunque la verdadera identidad del desarrollador puede no ser tan importante, lo que realmente importa es la transparencia y confiabilidad del proyecto. El código fuente del proyecto es la verdadera prueba de su calidad y confiabilidad."
+
+#: src/pages/Roadmap/index.tsx
+msgid "The developer will be able to claim 1 USDC token for every minted OFP token."
+msgstr "El desarrollador podrá reclamar 1 token USDC por cada token OFP acuñado."
+
+#: src/components/Governance/ActivateEmergencyModal.tsx
+msgid "The emergency mechanism permanently disables most of the Onifinance Project's functions and distributes the Onifinance Project's USDC tokens in exchange for burning OFP tokens."
+msgstr "El mecanismo de emergencia deshabilita permanentemente la mayoría de las funciones del Proyecto Onifinance y distribuye los tokens USDC del Proyecto Onifinance a cambio de quemar tokens OFP."
+
+#: src/pages/Faq/index.tsx
+msgid "The fifth decentralized raffle will have 200 winners of 200 USDC tokens each."
+msgstr "El quinto sorteo descentralizado tendrá 200 ganadores de 200 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The first 10 OFP tokens are automatically delivered to the developer."
+msgstr "Los primeros 10 tokens OFP son entregados automáticamente al desarrollador."
+
+#: src/pages/Faq/index.tsx
+msgid "The first decentralized raffle will have one winner, and the prize will be 100000 USDC tokens."
+msgstr "El primer sorteo descentralizado tendrá un ganador y el premio será de 100000 tokens USDC."
+
+#: src/pages/Faq/index.tsx
+msgid "The fourth decentralized raffle will have 200 winners of 2000 USDC tokens each."
+msgstr "El cuarto sorteo descentralizado tendrá 200 ganadores de 2000 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The initial amount is one billion OFI tokens and it will be distributed as follows:"
+msgstr "La cantidad inicial es de mil millones de tokens OFI y se distribuirá de la siguiente manera:"
+
+#: src/pages/Faq/index.tsx
+msgid "The mentioned reward will be delivered over the course of 5 years, and the developer of the Onifinance Project (Hacku) is excluded from it."
+msgstr "La recompensa mencionada se entregará en un plazo de 5 años y el desarrollador del proyecto Onifinance (Hacku) está excluido de ella."
+
+#: src/pages/Raffle/index.tsx
+msgid "The raffle has not yet been executed."
+msgstr "El sorteo aún no se ha ejecutado."
+
+#: src/pages/Faq/index.tsx
+msgid "The raffles will be conducted as follows:"
+msgstr "Los sorteos se llevarán a cabo de la siguiente manera:"
+
+#: src/pages/Faq/index.tsx
+msgid "The second decentralized raffle will have four winners of 50000 USDC tokens each."
+msgstr "El segundo sorteo descentralizado tendrá cuatro ganadores de 50000 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The seventh decentralized raffle will have 200 winners of 50 USDC tokens each."
+msgstr "El séptimo sorteo descentralizado tendrá 200 ganadores de 50 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The sixth decentralized raffle will have 200 winners of 100 USDC tokens each."
+msgstr "El sexto sorteo descentralizado tendrá 200 ganadores de 100 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The third decentralized raffle will have 30 winners of 10000 USDC tokens each."
+msgstr "El tercer sorteo descentralizado tendrá 30 ganadores de 10000 tokens USDC cada uno."
+
+#: src/pages/Faq/index.tsx
+msgid "The votes in the governance system of the Onifinance Project are obtained by owning OFP tokens and self-delegating them, or having someone with OFP tokens delegate their votes to you."
+msgstr "Los votos en el sistema de gobierno del Proyecto Onifinance se obtienen al ser propietario de tokens OFP y auto-delegarlos o tener a alguien con tokens OFP que delegue sus votos en ti."
+
+#: src/components/MintCountdown/index.tsx
+msgid "There are only"
+msgstr "Solo hay"
+
+#: src/pages/Faq/index.tsx
+msgid "There will also be a community raffle on Twitter with 50 prizes of 1000 USDC tokens each. To participate, users must follow <0>Onifinance's</0> official Twitter account and retweet a tweet specified by the account. The delivery of such prizes must be approved by the community using the governance system of the Onifinance Project."
+msgstr "También habrá un sorteo comunitario en Twitter con 50 premios de 1,000 tokens USDC cada uno. Para participar, los usuarios deben seguir la cuenta oficial de Twitter de <0>Onifinance</0> y retuitear un tweet especificado por la cuenta. La entrega de dichos premios debe ser aprobada por la comunidad utilizando el sistema de gobierno del Proyecto Onifinance."
+
+#: src/pages/Faq/index.tsx
+msgid "There will be a total of 6 pairs participating in the liquidity mining program."
+msgstr "Habrá un total de 6 pares participando en el programa de minería de liquidez."
+
+#: src/pages/Governance/VotePage.tsx
+msgid "This proposal may be executed after {0}."
+msgstr "Esta propuesta podrá ser ejecutada después de {0}."
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "To"
+msgstr "Para"
+
+#: src/components/ConfirmBurnModal/index.tsx
+msgid "To burn"
+msgstr "Para quemar"
+
+#: src/pages/Burn/index.tsx
+#: src/pages/Exchange/index.tsx
+msgid "To continue you must connect a wallet"
+msgstr "Para continuar debes conectar una billetera"
+
+#: src/components/ConfirmExchangeModal/index.tsx
+msgid "To exchange"
+msgstr "Para intercambiar"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Token"
+msgstr "Token"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Token address"
+msgstr "Dirección del token"
+
+#: src/components/ConfirmBurnModal/index.tsx
+#: src/components/ConfirmExchangeModal/index.tsx
+msgid "Total received"
+msgstr "Total recibido"
+
+#: src/components/ViewVotersModal/index.tsx
+msgid "Total votes against"
+msgstr "Votos totales en contra"
+
+#: src/components/ViewVotersModal/index.tsx
+msgid "Total votes for"
+msgstr "Votos totales a favor"
+
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Transaction"
+msgstr "Transacción"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction submitted"
+msgstr "Transacción enviada"
+
+#: src/components/WalletInfoDropdown/TransactionsMenu.tsx
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "Transactions"
+msgstr "Transacciones"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+#: src/pages/Governance/CreateProposal.tsx
+msgid "Transfer or Approve"
+msgstr "Transferir o aprobar"
+
+#: src/components/Governance/TransferOrApproveModal.tsx
+msgid "Transfer token"
+msgstr "Transferir token"
+
+#: src/components/Governance/ProposalStatusSpan.tsx
+msgid "UNDETERMINED"
+msgstr "INDETERMINADO"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "Unlock votes"
+msgstr "Desbloquear votos"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "Unlock {0} Votes"
+msgstr "Desbloquear {0} Votos"
+
+#: src/components/WalletInfoButton/index.tsx
+msgid "Unsupported"
+msgstr "No soportado"
+
+#: src/components/UnsupportedNetworkDropdown/index.tsx
+msgid "Unsupported network!"
+msgstr "¡Red no soportada!"
+
+#: src/components/Governance/PreviewProposalModal.tsx
+msgid "Untitled"
+msgstr "Sin titulo"
+
+#: src/components/Governance/DelegateModal.tsx
+#: src/components/Governance/DelegateModal.tsx
+msgid "Update Delegation"
+msgstr "Actualizar delegación"
+
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/pages/Governance/Proposals.tsx
+msgid "Update delegate"
+msgstr "Actualizar delegado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Updated delegate"
+msgstr "Delegado actualizado"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Updating delegate"
+msgstr "Actualizando delegado"
+
+#: src/components/Governance/ExecuteModal.tsx
+msgid "Use gas limit"
+msgstr "Usar límite de gas"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "Use raw calldata"
+msgstr "Usar calldata en bruto"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "View"
+msgstr "Ver"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Ver en el Explorador"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "View voters against"
+msgstr "Ver votantes en contra"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "View voters for"
+msgstr "Ver votantes a favor"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Vote Against"
+msgstr "Votar en contra"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Vote For"
+msgstr "Votar a favor"
+
+#: src/components/Governance/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Votar en contra de la propuesta {proposalId}"
+
+#: src/components/Governance/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Votar a favor de la propuesta {proposalId}"
+
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Vote {0} proposal"
+msgstr "Votar {0} de la propuesta"
+
+#: src/components/ViewVotersModal/index.tsx
+msgid "Voters against"
+msgstr "Votantes en contra"
+
+#: src/components/ViewVotersModal/index.tsx
+msgid "Voters for"
+msgstr "Votantes a favor"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "Votación finalizada el {0}"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "La votación termina aproximadamente el {0}"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "La votación comienza aproximadamente el {0}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Votted {0} proposal"
+msgstr "Votó {0} de la propuesta"
+
+#: src/components/Governance/VoteModal.tsx
+msgid "Votting against proposal {proposalId}"
+msgstr "Votando en contra de la propuesta {proposalId}"
+
+#: src/components/Governance/VoteModal.tsx
+msgid "Votting for proposal {proposalId}"
+msgstr "Votando a favor de la propuesta {proposalId}"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "Votting {0} proposal"
+msgstr "Votando {0} de la propuesta"
+
+#: src/pages/Dev/index.tsx
+msgid "Waiting answer"
+msgstr "Esperando respuesta"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting for confirmation"
+msgstr "Esperando confirmación"
+
+#: src/components/ConnectWalletModal/index.tsx
+msgid "Waiting to connect"
+msgstr "Esperando para conectar"
+
+#: src/pages/Faq/index.tsx
+msgid "What are OFP tokens and what is their utility?"
+msgstr "¿Qué son los tokens OFP y qué utilidad tienen?"
+
+#: src/pages/Faq/index.tsx
+msgid "What are random seeds, how are they obtained and how are they used?"
+msgstr "¿Qué son las semillas aleatorias, cómo se obtienen y cómo se utilizan?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is Onifinace Dollar?"
+msgstr "¿Qué es Onifinace Dollar?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is Onifinance Name system?"
+msgstr "¿Qué es Onifinance Name system?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is a Decentralized Autonomous Organization (DAO)?"
+msgstr "¿Qué es una Organización Autónoma Descentralizada (DAO)?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is liquidity mining and which pairs will participate?"
+msgstr "¿Qué es la minería de liquidez y qué pares participarán?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is the Airdrop and how many OFI tokens will be distributed?"
+msgstr "¿Qué es el Airdrop y cuántos tokens OFI se distribuirán?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is the OFI token and how useful is it?"
+msgstr "¿Qué es el token OFI y qué tan útil es?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is the Onifinance DAO?"
+msgstr "¿Qué es Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "What is the Onifinance Project?"
+msgstr "¿Qué es el Proyecto Onifinance?"
+
+#: src/pages/Faq/index.tsx
+msgid "What networks will Onifinance DAO work on?"
+msgstr "¿En qué redes funcionará Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "What other stablecoins will Onifinance DAO have?"
+msgstr "¿Qué otras stablecoins tendrá Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "What resources will be under the control of Onifinance Project's governance system to create Onifinance DAO?"
+msgstr "¿Qué recursos estarán bajo el control del sistema de gobernanza del Proyecto Onifinance para crear Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "What reward will the creators of Onifinance DAO receive?"
+msgstr "¿Qué recompensa recibirán los creadores de Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "What will be the price of each OFI token?"
+msgstr "¿Cuál será el precio de cada token OFI?"
+
+#: src/pages/Faq/index.tsx
+msgid "When does the construction of Onifinance DAO begin?"
+msgstr "¿Cuándo comienza la construcción de Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "When does the minting of OFP tokens begin and end?"
+msgstr "¿Cuándo comienza y cuándo termina la acuñación de tokens OFP?"
+
+#: src/pages/Faq/index.tsx
+msgid "When will Onifinance DAO be launched?"
+msgstr "¿Cuándo se lanzará Onifinance DAO?"
+
+#: src/pages/Faq/index.tsx
+msgid "Who is the developer of the Onifinance Project (Hacku)?"
+msgstr "¿Quién es el desarrollador del Proyecto Onifinance (Hacku)?"
+
+#: src/components/Governance/CommunityRaffleModal.tsx
+msgid "Winner #{count}"
+msgstr "Ganador #{count}"
+
+#: src/pages/Roadmap/index.tsx
+msgid "With the funds raised by the Onifinance Project, the construction of Onifinance DAO begins. All code for the Onifinance DAO smart contracts will be audited before launch."
+msgstr "Con los fondos recaudados por el Proyecto Onifinance, comienza la construcción de Onifinance DAO. Todo el código de los contratos inteligentes de Onifinance DAO será auditado antes de su puesta en marcha."
+
+#: src/components/VerticalNav/index.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WithdrawClaimableBalanceModal/index.tsx
+#: src/components/WithdrawClaimableBalanceModal/index.tsx
+msgid "Withdraw"
+msgstr "Retirar"
+
+#: src/components/Popups/TransactionPopup.tsx
+msgid "Withdraw {0} {1}"
+msgstr "Retirar {0} {1}"
+
+#: src/components/WithdrawClaimableBalanceModal/index.tsx
+msgid "Withdrawing"
+msgstr "Retirando"
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Ya tiene una propuesta activa o pendiente."
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "No tienes suficientes votos para presentar una propuesta."
+
+#: src/components/LatestBlock/index.tsx
+msgid "You may have lost your network connection."
+msgstr "Puede que hayas perdido la conexión de red."
+
+#: src/pages/Governance/CreateProposal.tsx
+msgid "You must have {0} votes to submit a proposal"
+msgstr "Debes tener {0} votos para presentar una propuesta."
+
+#: src/components/WithdrawClaimableBalanceModal/index.tsx
+msgid "Your dedication and effort have been valuable to the project's success, and we want to acknowledge your contribution 🎁."
+msgstr "Tu dedicación y esfuerzo han sido valiosos para el éxito del proyecto y queremos reconocer tu contribución 🎁."
+
+#: src/components/WalletInfoDropdown/TransactionsMenu.tsx
+msgid "Your transactions will appear here."
+msgstr "Sus transacciones aparecerán aquí."
+
+#: src/pages/Mint/index.tsx
+#: src/pages/Mint/index.tsx
+msgid "balance: {0}"
+msgstr "saldo: {0}"
+
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "copied!"
+msgstr "¡copiado!"
+
+#: src/components/WalletInfoDropdown/WalletInfoDefault.tsx
+msgid "copy"
+msgstr "copiar"
+
+#: src/components/Governance/CustomActionModal.tsx
+msgid "example"
+msgstr "ejemplo"
+
+#: src/components/Governance/CustomActionModal.tsx
+#: src/components/Governance/CustomActionModal.tsx
+msgid "example#1"
+msgstr "ejemplo#1"
+
+#: src/components/Governance/CustomActionModal.tsx
+#: src/components/Governance/CustomActionModal.tsx
+msgid "example#2"
+msgstr "ejemplo#2"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "failed"
+msgstr "fallida"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "random words"
+msgstr "palabras aleatorias"
+
+#: src/components/ViewVotersModal/index.tsx
+msgid "reason"
+msgstr "motivo"
+
+#: src/components/Governance/DelegateModal.tsx
+msgid "self-delegated!"
+msgstr "¡autodelegado!"
+
+#: src/components/MintCountdown/index.tsx
+msgid "until start minting!"
+msgstr "¡hasta empezar a acuñar!"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "withdrawing"
+msgstr "retirando"
+
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+msgid "withdrew"
+msgstr "retirado"
+
+#: src/components/Governance/DelegateModal.tsx
+#: src/components/Governance/ExecuteModal.tsx
+#: src/components/Governance/VoteModal.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/Popups/TransactionPopup.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/VerticalNav/index.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WalletInfoDropdown/TransactionBody.tsx
+#: src/components/WithdrawClaimableBalanceModal/index.tsx
+#: src/pages/Governance/CreateProposal.tsx
+#: src/pages/Governance/CreateProposal.tsx
+#: src/pages/Governance/VotePage.tsx
+#: src/pages/Governance/VotePage.tsx
+#: src/state/governance/hooks.ts
+#: src/state/governance/hooks.ts
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+#: src/utils/transactionErrorToUserReadableMessage.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "{0} / {1} Votes"
+msgstr "{0} / {1} Votos"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "{0} Current votes"
+msgstr "{0} Votos actuales"
+
+#: src/components/MintCountdown/index.tsx
+msgid "{0} Days"
+msgstr "{0} Días"
+
+#: src/pages/Governance/VotePage.tsx
+#: src/pages/Governance/VotePage.tsx
+msgid "{0} Votes"
+msgstr "{0} Votos"
+
+#: src/pages/Governance/VotePage.tsx
+msgid "{0} Votes {1}"
+msgstr "{0} Votos {1}"
+
+#: src/pages/Governance/Proposals.tsx
+msgid "{0} self-delegated votes."
+msgstr "{0} votos autodelegados."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "{0} votes delegated to:"
+msgstr "{0} votos autodelegados a:"
+
+#: src/components/MintCountdown/index.tsx
+msgid "{0} {1} Hours"
+msgstr "{0} {1} Horas"
+
+#: src/components/MintCountdown/index.tsx
+msgid "{0} {1} Minutes"
+msgstr "{0} {1} Minutos"
+
+#: src/components/MintCountdown/index.tsx
+msgid "{0} {1} Seconds"
+msgstr "{0} {1} Segundos"
+
+#: src/components/ClaimableBalancePopup/index.tsx
+msgid "{0} {1} available to <0>withdraw</0>"
+msgstr "{0} {1} disponibles para <0>retirar</0>"
+
