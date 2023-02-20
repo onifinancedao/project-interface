@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# An open source interface for the Onifinance Project
+
+The latest release is always accessible via
+
+- [project.onifinance.org](https://project.onifinance.org)
+
+- ipns://onifinance.eth
+
+- [onifinance.eth.limo](https://onifinance.eth.limo/)
+
+- [onifinance.eth.link](https://onifinance.eth.link/)
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
