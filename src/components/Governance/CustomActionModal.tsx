@@ -138,7 +138,7 @@ export default function CustomActionModal({addProposalDetail}:{addProposalDetail
     const isValidData = Boolean(isAddress(target) && ((functionToExecute !== '' && validData) || (useRawCalldata && encodedCallData !=='' && encodedCallData !== '0x')))
     return(
         <Modal isOpen={isOpen} scrollOverlay={true} onDismiss={wrapOnDismiss} maxHeight={80}>
-            <ThemedContainer maxHeight="80vh">
+            <ThemedContainer maxHeight="80vh" className="overflow-auto">
                 <div className='row'>
                     <div className='col-9 mb-2'>
                         <span><Trans>Custom Action</Trans></span>
