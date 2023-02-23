@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: onifinance-project\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-15 20:47\n"
+"PO-Revision-Date: 2023-02-23 01:45\n"
 "Last-Translator: \n"
 "Language: es_ES\n"
 "Language-Team: Spanish\n"
@@ -366,6 +366,10 @@ msgstr "Emitir Voto"
 #: src/pages/Dev/index.tsx
 msgid "Claim OFI tokens"
 msgstr "Reclamar tokens OFI"
+
+#: src/pages/Dev/index.tsx
+msgid "Claim date: {0}"
+msgstr "Fecha de reclamo: {0}"
 
 #: src/pages/Dev/index.tsx
 #: src/pages/Dev/index.tsx
@@ -1304,13 +1308,13 @@ msgstr "El token OFI tendrá un precio inicial de 0.7 USDC por cada OFI. El prec
 msgid "The OFI token, which will be used as the utility token of the Onifinance DAO."
 msgstr "El token OFI, que será utilizado como el token de utilidad de la Onifinance DAO."
 
-#: src/pages/Governance/Proposals.tsx
-msgid "The OFI tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "Los tokens OFI representan participaciones de voto en la gobernanza del proyecto Onifinance. Puedes votar en cada propuesta por ti mismo o delegar tus votos a un tercero."
-
 #: src/pages/Faq/index.tsx
 msgid "The OFP (Onifinance Project) tokens are a non-fungible or NFT token type created as part of the Onifinance Project. Their main utility is to serve as a means to participate in the Onifinance Project governance system and obtain OFI tokens. OFP token holders can exchange them for OFI tokens once the Onifinance DAO has been launched."
 msgstr "Los tokens OFP (Onifinance Project) son un tipo de token no fungible o NFT creado como parte del proyecto Onifinance. Su principal utilidad es servir como medio para participar en el sistema de gobernanza del Proyecto Onifinance y obtener tokens OFI. Los titulares de tokens OFP pueden intercambiarlos por tokens OFI una vez que se haya lanzado la Onifinance DAO."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "The OFP tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Los tokens OFP representan participaciones de voto en la gobernanza del Proyecto Onifinance. Puedes votar en cada propuesta por ti mismo o delegar tus votos a un tercero."
 
 #: src/pages/Faq/index.tsx
 #: src/pages/Home/index.tsx

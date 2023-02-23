@@ -64,7 +64,7 @@ export default function Proposals() {
                         <div className='col-12 px-0'>
                             <ThemedContainer maxWidth='100%' className='p-4'>
                                 <div><strong><span><Trans>Onifinance Project Governance</Trans></span></strong></div>
-                                <div className='my-2'><small><Trans>The OFI tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party.</Trans></small></div>
+                                <div className='my-2'><small><Trans>The OFP tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party.</Trans></small></div>
                                 <a href="#/faq" className='text-reset' style={{maxWidth:"450px", cursor:"pointer"}}><Trans>FAQs</Trans></a>
                             </ThemedContainer>
                         </div>

@@ -363,6 +363,10 @@ msgid "Claim OFI tokens"
 msgstr "Claim OFI tokens"
 
 #: src/pages/Dev/index.tsx
+msgid "Claim date: {0}"
+msgstr "Claim date: {0}"
+
+#: src/pages/Dev/index.tsx
 #: src/pages/Dev/index.tsx
 msgid "Claim reward"
 msgstr "Claim reward"
@@ -1299,13 +1303,13 @@ msgstr "The OFI token will have an initial price of 0.7 USDC for each OFI. The p
 msgid "The OFI token, which will be used as the utility token of the Onifinance DAO."
 msgstr "The OFI token, which will be used as the utility token of the Onifinance DAO."
 
-#: src/pages/Governance/Proposals.tsx
-msgid "The OFI tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "The OFI tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
-
 #: src/pages/Faq/index.tsx
 msgid "The OFP (Onifinance Project) tokens are a non-fungible or NFT token type created as part of the Onifinance Project. Their main utility is to serve as a means to participate in the Onifinance Project governance system and obtain OFI tokens. OFP token holders can exchange them for OFI tokens once the Onifinance DAO has been launched."
 msgstr "The OFP (Onifinance Project) tokens are a non-fungible or NFT token type created as part of the Onifinance Project. Their main utility is to serve as a means to participate in the Onifinance Project governance system and obtain OFI tokens. OFP token holders can exchange them for OFI tokens once the Onifinance DAO has been launched."
+
+#: src/pages/Governance/Proposals.tsx
+msgid "The OFP tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "The OFP tokens represent voting shares in the governance of the Onifinance Project. You can vote on each proposal yourself or delegate your votes to a third party."
 
 #: src/pages/Faq/index.tsx
 #: src/pages/Home/index.tsx
