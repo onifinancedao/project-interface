@@ -11,7 +11,10 @@ The latest release is always accessible via
 - [onifinance.eth.link](https://onifinance.eth.link/)
 
 
+## Translation
 
+
+The translation of the interface can be found here: [https://crowdin.com/project/onifinance-project/](https://crowdin.com/project/onifinance-project)
 
 
 ## Getting Started with Create React App
